@@ -1,4 +1,4 @@
-# Clash官网导航(2025-09-11 09:23:27最新)
+# Clash官网导航(2025-09-11 09:38:26最新)
 
 ## Clash 客户端
 
@@ -68,7 +68,8 @@
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 - clashN 使用教程：https://getclashn.org/
 
-## Clash免费节点更新 (tttttttt) 
+## Clash免费节点更新 (tttttttt最新)  
+<a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
 socks-port: 7891
@@ -11662,4 +11663,3 @@ rules:
   - MATCH,🐟 漏网之鱼
 
 ```
-<a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
