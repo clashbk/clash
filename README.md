@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-09-19 04:50:25 最新)
+# Clash官网导航( 2025-09-19 08:53:04 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-09-19 04:50:25 最新)  
+## Clash免费节点更新 ( 2025-09-19 08:53:04 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -104,13 +104,19 @@ proxies:
   - {name: "[VMess] 🇭🇰 香港7|@ripaojiedian 2", server: 183.240.180.47, port: 52512, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[SS] 🇯🇵 日本5|@ripaojiedian 2", server: 3.115.88.171, port: 16888, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4}
   - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.155.28, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
-  - {name: "[Vless] FR_speednode_0009", server: 51.195.31.95, port: 80, type: vless, uuid: 962bfec5-ef89-4180-8f5b-9209a7207668, tls: false, skip-cert-verify: false, servername: wWw.speEDtEST.NeT, network: ws, ws-opts: {path: /wslinws, headers: {Host: wWw.speEDtEST.NeT}}}
-  - {name: "[Vless] US_speednode_0025", server: 172.66.40.99, port: 8880, type: vless, uuid: 934ad667-dce8-402a-aa45-3c3b52252c0a, tls: false, skip-cert-verify: false, servername: websocket.network.www.speedtest.net.flutter.dev.russia.python.elmahstyle.xyz., network: ws, ws-opts: {path: "/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048", headers: {Host: websocket.network.www.speedtest.net.flutter.dev.russia.python.elmahstyle.xyz.}}}
-  - {name: "[Vless] US_speednode_0026", server: light-presence.oneeat.co, port: 80, type: vless, uuid: 7e74ff43-3a90-48b3-8372-7d92a045c2d4, tls: false, skip-cert-verify: false, servername: light-presence.oneeat.co, network: ws, ws-opts: {path: /, headers: {Host: light-presence.oneeat.co}}}
+  - {name: "[Vless] DE_speednode_0006", server: 188.245.119.21, port: 26120, type: vless, uuid: cd77cddf-9fff-4bbb-a0b8-c33213320e82, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "[Vless] FR_speednode_0008", server: 51.195.31.95, port: 80, type: vless, uuid: 962bfec5-ef89-4180-8f5b-9209a7207668, tls: false, skip-cert-verify: false, servername: wWw.speEDtEST.NeT, network: ws, ws-opts: {path: /wslinws, headers: {Host: wWw.speEDtEST.NeT}}}
+  - {name: "[Trojan] JP_speednode_0018", server: www.tiktok.com.jp2.viefast.net, port: 443, type: trojan, password: 9e76767d-4bfa-4f04-a800-42e2f63afed2, sni: www.linemo.jp, skip-cert-verify: false}
+  - {name: "[Vless] US_speednode_0026", server: 104.16.142.193, port: 8880, type: vless, uuid: 2a2f8790-99ab-4788-985c-0fe5627af2a9, tls: false, skip-cert-verify: false, servername: SomeNotificationsChangeYourLife.EiNetwork.News., network: ws, ws-opts: {path: /Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray, headers: {Host: SomeNotificationsChangeYourLife.EiNetwork.News.}}}
+  - {name: "[Vless] US_speednode_0036", server: freeyx.cloudflare88.eu.org, port: 443, type: vless, uuid: c4253041-7593-447d-a582-5ab80bc85918, tls: true, skip-cert-verify: false, servername: do-lon1.008883.xyz, network: ws, ws-opts: {path: "/freev2.net?ed=2048fp=random", headers: {Host: do-lon1.008883.xyz}}}
+  - {name: "[Vless] US_speednode_0038", server: freeyx.cloudflare88.eu.org, port: 443, type: vless, uuid: c4253041-7593-447d-a582-5ab80bc85918, tls: true, skip-cert-verify: false, servername: do-sgp1.008883.xyz, network: ws, ws-opts: {path: "/freev2.net?ed=2048fp=random", headers: {Host: do-sgp1.008883.xyz}}}
+  - {name: "[Vless] US_speednode_0039", server: freev2.cloudflare.182682.xyz, port: 443, type: vless, uuid: c4253041-7593-447d-a582-5ab80bc85918, tls: true, skip-cert-verify: false, servername: do-syd1.008883.xyz, network: ws, ws-opts: {path: "/freev2.net?ed=2048fp=random", headers: {Host: do-syd1.008883.xyz}}}
+  - {name: "[Vless] US_speednode_0040", server: FASTSHOVPNTELEGRAM2.vinamarketcenter.ir, port: 80, type: vless, uuid: f18203b6-f3a3-4aee-de1f-dce5e4228e91, tls: false, skip-cert-verify: false, servername: eng.vinamarketcenter.ir, network: ws, ws-opts: {path: /FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM, headers: {Host: eng.vinamarketcenter.ir}}}
+  - {name: "[Vless] US_speednode_0041", server: 172.66.40.99, port: 443, type: vless, uuid: 0261c8f9-413a-455b-942b-3713c6b0084a, tls: true, alpn: [h2%2Chttp/1.1], skip-cert-verify: false, servername: www.dollardoon.com, network: ws, ws-opts: {path: /@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7fp=chrome, headers: {Host: www.dollardoon.com}}}
   - {name: "[SS] 🇺🇸 美国2|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509121565513-XAa9x2cfsM.download.microsoft.com}}
+  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509121565513-XAa9x2cfsM.download.microsoft.com}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 156.251.179.135, port: 443, type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /aqwshiog, tls: true, mux: true, skip-cert-verify: false}}
   - {name: "[SS] 🇯🇵 日本2|@ripaojiedian 2", server: 137.220.142.139, port: 443, type: ss, cipher: aes-256-gcm, password: 8808e9f11454, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp5v1.lingjfjkm002.com, path: /nvcnjrmkggoy, tls: true, mux: false, skip-cert-verify: false}}
-  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509121565513-XAa9x2cfsM.download.microsoft.com}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -160,13 +166,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -215,13 +227,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -271,13 +289,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -339,13 +363,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -410,13 +440,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -465,13 +501,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -521,13 +563,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -586,13 +634,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本5|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] FR_speednode_0009"
-      - "[Vless] US_speednode_0025"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FR_speednode_0008"
+      - "[Trojan] JP_speednode_0018"
       - "[Vless] US_speednode_0026"
+      - "[Vless] US_speednode_0036"
+      - "[Vless] US_speednode_0038"
+      - "[Vless] US_speednode_0039"
+      - "[Vless] US_speednode_0040"
+      - "[Vless] US_speednode_0041"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
