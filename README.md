@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-09-26 08:53:30 最新)
+# Clash官网导航( 2025-09-26 13:15:01 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-09-26 08:53:30 最新)  
+## Clash免费节点更新 ( 2025-09-26 13:15:01 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -76,7 +76,7 @@ proxies:
   - {name: "[Hysteria2] All-@IRAN_V2RAY1", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #1", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
   - {name: "[Hysteria2] @FreakConfig 2", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
-  - {name: "[Hysteria2] @V2RAYNG_1378", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] All-@IRAN_V2RAY1 #2", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #3", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
@@ -155,7 +155,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -233,7 +233,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -312,7 +312,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -403,7 +403,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -493,7 +493,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -571,7 +571,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -650,7 +650,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
@@ -738,7 +738,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] @V2RAYNG_1378"
+      - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
