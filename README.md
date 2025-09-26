@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-09-26 16:51:58 最新)
+# Clash官网导航( 2025-09-26 20:48:58 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-09-26 16:51:58 最新)  
+## Clash免费节点更新 ( 2025-09-26 20:48:58 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -70,6 +70,9 @@ proxies:
   - {name: "[Hysteria2] telegram-@vpnserverrr", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 682c7978-e3eb-44e0-924c-607144495681, auth: 682c7978-e3eb-44e0-924c-607144495681, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:...", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 70197404-7b40-45e4-bb9c-8bc8995012ae, auth: 70197404-7b40-45e4-bb9c-8bc8995012ae, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: 70197404-7b40-45e4-bb9c-8bc8995012ae, auth: 70197404-7b40-45e4-bb9c-8bc8995012ae, skip-cert-verify: false}
+  - {name: "[Hysteria2] Channel id: @vpnserverrr🇺🇸", server: lsj3.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: lsj3.mangshe.xyz, skip-cert-verify: false}
+  - {name: "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1", server: mg1.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: mg1.mangshe.xyz, skip-cert-verify: false}
+  - {name: "[Hysteria2] Channel id: @vpnserverrr🇸🇬", server: xjp2.mangshe.xyz, port: 2060, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: xjp2.mangshe.xyz, skip-cert-verify: false}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا...", server: 77.223.214.193, port: 31468, type: hysteria2, password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, auth: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @IRAN_V2RAY1 #1", server: 70.34.215.221, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
@@ -148,6 +151,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -225,6 +231,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -303,6 +312,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -393,6 +405,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -482,6 +497,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -559,6 +577,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -637,6 +658,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
@@ -724,6 +748,9 @@ proxy-groups:
       - "[Hysteria2] telegram-@vpnserverrr"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸"
+      - "[Hysteria2] Channel id: @vpnserverrr🇺🇸 #1"
+      - "[Hysteria2] Channel id: @vpnserverrr🇸🇬"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @IRAN_V2RAY1 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1"
