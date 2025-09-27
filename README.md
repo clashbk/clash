@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-09-27 04:49:11 最新)
+# Clash官网导航( 2025-09-27 08:49:00 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-09-27 04:49:11 最新)  
+## Clash免费节点更新 ( 2025-09-27 08:49:00 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -102,37 +102,36 @@ proxies:
   - {name: "[SS] tg频道:@ripaojiedian 2", server: 3.250.25.159, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
   - {name: "[VMess] 🇭🇰 香港3|@ripaojiedian 2", server: 43.247.135.86, port: 44601, type: vmess, uuid: 3bff49e6-b2e2-44ce-801f-06eab407e8bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.155.28, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
-  - {name: "[Vless] AU_speednode_0001", server: 185.207.198.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Trojan] AU_speednode_0002", server: 176.97.68.153, port: 8443, type: trojan, password: installshield, sni: 176.97.68.153, skip-cert-verify: false}
-  - {name: "[Vless] BG_speednode_0004", server: 91.215.153.85, port: 443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Trojan] CN_speednode_0005", server: 106.75.134.1, port: 12000, type: trojan, password: 2fd0d127-266d-4d0b-b453-f94659a132fc, sni: aliyun.com, skip-cert-verify: false}
-  - {name: "[Vless] FI_speednode_0009", server: 91.149.254.138, port: 443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Trojan] FR_speednode_0010", server: 23.162.152.30, port: 8443, type: trojan, password: installshield, skip-cert-verify: false}
-  - {name: "[Vless] FR_speednode_0011", server: 89.168.43.31, port: 2053, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] FR_speednode_0012", server: 89.168.43.31, port: 2053, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] FR_speednode_0013", server: 141.11.203.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] GB_speednode_0015", server: 159.65.94.176, port: 8080, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] HK_speednode_0017", server: 154.211.8.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] IN_speednode_0019", server: 65.20.82.22, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] IN_speednode_0020", server: 65.20.76.125, port: 8443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] JP_speednode_0022", server: 141.147.161.249, port: 51037, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] JP_speednode_0023", server: 132.226.8.109, port: 43257, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] AE_speednode_0001", server: 94.140.0.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] CN_speednode_0002", server: blog.811520.xyz, port: 443, type: vless, uuid: 2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27, tls: false, skip-cert-verify: false, servername: vless4-8y8.pages.dev, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: vless4-8y8.pages.dev}}}
+  - {name: "[Trojan] CN_speednode_0003", server: 106.75.134.1, port: 12000, type: trojan, password: 2fd0d127-266d-4d0b-b453-f94659a132fc, sni: aliyun.com, skip-cert-verify: false}
+  - {name: "[Vless] DE_speednode_0006", server: 109.107.181.38, port: 443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] FI_speednode_0007", server: 91.108.241.44, port: 8443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: true, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] FR_speednode_0008", server: 141.145.199.188, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: true, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] FR_speednode_0009", server: 185.16.110.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: true, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetsfp=chrome, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] FR_speednode_0010", server: 141.11.203.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] FR_speednode_0012", server: 141.11.203.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] GB_speednode_0013", server: 80.93.202.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
   - {name: "[Vless] KR_speednode_0025", server: 158.180.82.203, port: 8443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] KR_speednode_0026", server: 124.48.225.132, port: 50000, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] KR_speednode_0027", server: 112.156.154.95, port: 30067, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] NL_speednode_0028", server: 160.153.1.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] RU_speednode_0029", server: 81.200.158.206, port: 8443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] RU_speednode_0030", server: 89.169.160.84, port: 2053, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] SE_speednode_0031", server: 89.22.239.42, port: 2020, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] SG_speednode_0033", server: 92.243.75.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] US_speednode_0035", server: 67.226.221.102, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] US_speednode_0037", server: 67.226.221.102, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] US_speednode_0038", server: 141.193.27.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] US_speednode_0039", server: 195.13.45.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] US_speednode_0040", server: 160.79.105.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[Vless] US_speednode_0041", server: 166.62.106.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509242154338-Zr8tJCX9sq.download.microsoft.com}}
+  - {name: "[Vless] NL_speednode_0026", server: 89.110.125.45, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] NL_speednode_0027", server: 89.110.125.45, port: 443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] RU_speednode_0028", server: 81.200.158.206, port: 8443, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] RU_speednode_0029", server: 89.169.160.84, port: 2053, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] SG_speednode_0030", server: 92.243.75.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] SG_speednode_0031", server: 92.243.75.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0038", server: 67.226.221.102, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: "/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls", headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0040", server: 141.193.27.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0041", server: 67.226.221.102, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0042", server: 67.226.221.102, port: 443, type: vless, uuid: 01996549-6892-dbf0-0453-f700236936bd, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0043", server: 160.79.105.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0044", server: 195.13.45.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0045", server: 199.34.229.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: true, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetsfp=chrome, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0046", server: 195.13.45.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0047", server: 204.93.210.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0048", server: 160.79.105.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
+  - {name: "[Vless] US_speednode_0049", server: 141.193.27.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tlssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
+  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509242154338-Zr8tJCX9sq.download.microsoft.com}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -180,37 +179,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -257,37 +255,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -335,37 +332,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -425,37 +421,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -514,37 +509,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -591,37 +585,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -669,37 +662,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -756,37 +748,36 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] AU_speednode_0001"
-      - "[Trojan] AU_speednode_0002"
-      - "[Vless] BG_speednode_0004"
-      - "[Trojan] CN_speednode_0005"
-      - "[Vless] FI_speednode_0009"
-      - "[Trojan] FR_speednode_0010"
-      - "[Vless] FR_speednode_0011"
+      - "[Vless] AE_speednode_0001"
+      - "[Vless] CN_speednode_0002"
+      - "[Trojan] CN_speednode_0003"
+      - "[Vless] DE_speednode_0006"
+      - "[Vless] FI_speednode_0007"
+      - "[Vless] FR_speednode_0008"
+      - "[Vless] FR_speednode_0009"
+      - "[Vless] FR_speednode_0010"
       - "[Vless] FR_speednode_0012"
-      - "[Vless] FR_speednode_0013"
-      - "[Vless] GB_speednode_0015"
-      - "[Vless] HK_speednode_0017"
-      - "[Vless] IN_speednode_0019"
-      - "[Vless] IN_speednode_0020"
-      - "[Vless] JP_speednode_0022"
-      - "[Vless] JP_speednode_0023"
+      - "[Vless] GB_speednode_0013"
       - "[Vless] KR_speednode_0025"
-      - "[Vless] KR_speednode_0026"
-      - "[Vless] KR_speednode_0027"
-      - "[Vless] NL_speednode_0028"
+      - "[Vless] NL_speednode_0026"
+      - "[Vless] NL_speednode_0027"
+      - "[Vless] RU_speednode_0028"
       - "[Vless] RU_speednode_0029"
-      - "[Vless] RU_speednode_0030"
-      - "[Vless] SE_speednode_0031"
-      - "[Vless] SG_speednode_0033"
-      - "[Vless] US_speednode_0035"
-      - "[Vless] US_speednode_0037"
+      - "[Vless] SG_speednode_0030"
+      - "[Vless] SG_speednode_0031"
       - "[Vless] US_speednode_0038"
-      - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[Vless] US_speednode_0042"
+      - "[Vless] US_speednode_0043"
+      - "[Vless] US_speednode_0044"
+      - "[Vless] US_speednode_0045"
+      - "[Vless] US_speednode_0046"
+      - "[Vless] US_speednode_0047"
+      - "[Vless] US_speednode_0048"
+      - "[Vless] US_speednode_0049"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
