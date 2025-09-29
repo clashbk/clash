@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-09-29 02:16:17 最新)
+# Clash官网导航( 2025-09-29 04:50:37 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-09-29 02:16:17 最新)  
+## Clash免费节点更新 ( 2025-09-29 04:50:37 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -95,10 +95,9 @@ proxies:
   - {name: "[Hysteria2] @Daily_Configs #10", server: 185.184.68.7.sslip.io, port: 46129, type: hysteria2, password: df36ace8-640b-42bb-8169-198901af6d9e, auth: df36ace8-640b-42bb-8169-198901af6d9e, skip-cert-verify: false, obfs: salamander, obfs-password: JBPVtqk1kMBGleBcLZ}
   - {name: "[Hysteria2] r♡ya #3", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, auth: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs IPv4", server: 95.181.174.31, port: 443, type: hysteria2, password: joinbededailyconfigs, auth: joinbededailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs}
   - {name: "[Hysteria2] @Daily_Configs «-- کانال تلگرا...", server: 95.181.174.31, port: 443, type: hysteria2, password: joindailyconfigs, auth: joindailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP}
   - {name: "[Hysteria2] @Daily_Configs #11", server: 103.249.133.79, port: 443, type: hysteria2, password: joindailyconfigschanel, auth: joindailyconfigschanel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs IPv4 #1", server: 95.181.174.31, port: 443, type: hysteria2, password: kanale_dailyconfigs, auth: kanale_dailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs}
+  - {name: "[Hysteria2] @Daily_Configs IPv4", server: 95.181.174.31, port: 443, type: hysteria2, password: kanale_dailyconfigs, auth: kanale_dailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs}
   - {name: "[Hysteria2] @FreakConfig 3", server: pouria.3dfigures.ir, port: 28777, type: hysteria2, password: lHoYmNZmLe, auth: lHoYmNZmLe, skip-cert-verify: false, obfs: salamander, obfs-password: wcancmaocnewrivbkacmlmsvwuvdfsv}
   - {name: "[Hysteria2] @FreakConfig #1 3", server: pouria.3dfigures.ir, port: 53713, type: hysteria2, password: lHoYmNZmLe, auth: lHoYmNZmLe, skip-cert-verify: false, obfs: salamander, obfs-password: uvahwuicbhwabhvlhv}
   - {name: "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4", server: 95.181.174.31, port: 443, type: hysteria2, password: mahsaamini, auth: mahsaamini, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP}
@@ -194,10 +193,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -292,10 +290,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -391,10 +388,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -502,10 +498,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -610,10 +605,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -708,10 +702,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -807,10 +800,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
@@ -915,10 +907,9 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] r♡ya #3"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs «-- کانال تلگرا..."
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs IPv4 #1"
+      - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #4"
