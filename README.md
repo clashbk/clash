@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-03 08:52:15 最新)
+# Clash官网导航( 2025-10-03 13:06:03 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-03 08:52:15 最新)  
+## Clash免费节点更新 ( 2025-10-03 13:06:03 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -69,7 +69,6 @@ proxies:
   - {name: "[Hysteria2] @freenettir #4", server: 185.126.255.78, port: 50440, type: hysteria2, password: 23125f6e-ec56-4c26-9714-0bbacdb53d01, auth: 23125f6e-ec56-4c26-9714-0bbacdb53d01, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @freenettir #5", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, skip-cert-verify: false}
   - {name: "[Hysteria2] @freenettir #6", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] 未命名", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com@V2rayNGVPN <= کانفیگ رایگان, skip-cert-verify: false}
   - {name: "[Hysteria2] @freenettir #7", server: 185.126.255.78, port: 50440, type: hysteria2, password: 29fbd51f-03c8-4d76-849a-436e54d58317, auth: 29fbd51f-03c8-4d76-849a-436e54d58317, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #1", server: 5.231.70.79, port: 443, type: hysteria2, password: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, auth: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات...", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: 3QlSMKyqLp, auth: 3QlSMKyqLp, sni: android.yas-nowin.ir, skip-cert-verify: false}
@@ -162,7 +161,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -254,7 +252,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -347,7 +344,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -452,7 +448,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -556,7 +551,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -648,7 +642,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -741,7 +734,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -843,7 +835,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
