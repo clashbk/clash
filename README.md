@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-04 04:49:05 最新)
+# Clash官网导航( 2025-10-04 08:49:04 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-04 04:49:05 最新)  
+## Clash免费节点更新 ( 2025-10-04 08:49:04 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -119,8 +119,6 @@ proxies:
   - {name: "[SS] tg频道:@ripaojiedian 2", server: 34.245.185.129, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
   - {name: "[VMess] 🇭🇰 香港3|@ripaojiedian 2", server: 43.247.134.213, port: 18366, type: vmess, uuid: ccc37b1b-4ef0-430c-b1e1-20bf96fcff8c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.154.198, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
-  - {name: "[Trojan] CN_speednode_0006", server: 106.75.134.1, port: 12000, type: trojan, password: 2fd0d127-266d-4d0b-b453-f94659a132fc, sni: aliyun.com, skip-cert-verify: false}
-  - {name: "[Vless] US_speednode_0025", server: 72.167.25.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /Telegramsecurity=tls, headers: {Host: gaosir.unfeeling.sbs}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -186,8 +184,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
@@ -252,8 +248,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
@@ -319,8 +313,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
@@ -398,8 +390,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
@@ -477,8 +467,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
@@ -543,8 +531,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
@@ -610,8 +596,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
@@ -686,8 +670,6 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0006"
-      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
