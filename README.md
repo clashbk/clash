@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-03 20:49:03 最新)
+# Clash官网导航( 2025-10-04 02:06:28 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-03 20:49:03 最新)  
+## Clash免费节点更新 ( 2025-10-04 02:06:28 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
