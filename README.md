@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-04 16:48:43 最新)
+# Clash官网导航( 2025-10-04 20:48:58 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-04 16:48:43 最新)  
+## Clash免费节点更新 ( 2025-10-04 20:48:58 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -88,19 +88,18 @@ proxies:
   - {name: "[Hysteria2] @FreakConfig 2", server: 81.168.83.89, port: 2083, type: hysteria2, password: YwuvGJk36B, auth: YwuvGJk36B, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, obfs: salamander, obfs-password: khameniiko@smad@ret}
   - {name: "[Hysteria2] @Daily_Configs #6", server: 103.249.133.79, port: 443, type: hysteria2, password: biadailyconfigs, auth: biadailyconfigs, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @Daily_Configs #7", server: 103.249.133.79, port: 443, type: hysteria2, password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn, auth: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #8", server: 95.181.174.31, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP}
-  - {name: "[Hysteria2] @Daily_Configs #10", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #11", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #12", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigschannel, auth: dailyconfigschannel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #13", server: 185.184.68.7.sslip.io, port: 46129, type: hysteria2, password: df36ace8-640b-42bb-8169-198901af6d9e, auth: df36ace8-640b-42bb-8169-198901af6d9e, skip-cert-verify: false, obfs: salamander, obfs-password: JBPVtqk1kMBGleBcLZ}
+  - {name: "[Hysteria2] @Daily_Configs #8", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
+  - {name: "[Hysteria2] @Daily_Configs #9", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
+  - {name: "[Hysteria2] @Daily_Configs #10", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigschannel, auth: dailyconfigschannel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
+  - {name: "[Hysteria2] @Daily_Configs #11", server: 185.184.68.7.sslip.io, port: 46129, type: hysteria2, password: df36ace8-640b-42bb-8169-198901af6d9e, auth: df36ace8-640b-42bb-8169-198901af6d9e, skip-cert-verify: false, obfs: salamander, obfs-password: JBPVtqk1kMBGleBcLZ}
   - {name: "[Hysteria2] @FreakConfig 3", server: 208.87.243.187, port: 22222, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, auth: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #15", server: 103.249.133.79, port: 443, type: hysteria2, password: joindailyconfigschanel, auth: joindailyconfigschanel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
+  - {name: "[Hysteria2] @Daily_Configs #13", server: 103.249.133.79, port: 443, type: hysteria2, password: joindailyconfigschanel, auth: joindailyconfigschanel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @FreakConfig #1", server: pouria.3dfigures.ir, port: 28777, type: hysteria2, password: lHoYmNZmLe, auth: lHoYmNZmLe, skip-cert-verify: false, obfs: salamander, obfs-password: wcancmaocnewrivbkacmlmsvwuvdfsv}
   - {name: "[Hysteria2] @FreakConfig #2 2", server: pouria.3dfigures.ir, port: 53713, type: hysteria2, password: lHoYmNZmLe, auth: lHoYmNZmLe, skip-cert-verify: false, obfs: salamander, obfs-password: uvahwuicbhwabhvlhv}
-  - {name: "[Hysteria2] @Daily_Configs #16", server: 103.249.133.79, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: ubuntu.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #17", server: 95.181.174.31, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP}
+  - {name: "[Hysteria2] @Daily_Configs #14", server: 103.249.133.79, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: ubuntu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #15", server: 95.181.174.31, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP}
   - {name: "[SS] tg频道:@ripaojiedian", server: 34.245.185.129, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "[VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78}
@@ -153,18 +152,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -216,18 +214,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -280,18 +277,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -356,18 +352,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -432,18 +427,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -495,18 +489,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -559,18 +552,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -632,18 +624,17 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Daily_Configs #8"
+      - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
       - "[Hysteria2] @Daily_Configs #11"
-      - "[Hysteria2] @Daily_Configs #12"
-      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #15"
+      - "[Hysteria2] @Daily_Configs #13"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #2 2"
-      - "[Hysteria2] @Daily_Configs #16"
-      - "[Hysteria2] @Daily_Configs #17"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
