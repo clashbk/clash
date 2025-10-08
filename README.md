@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-08 08:54:02 最新)
+# Clash官网导航( 2025-10-08 13:17:34 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-08 08:54:02 最新)  
+## Clash免费节点更新 ( 2025-10-08 13:17:34 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -84,7 +84,7 @@ proxies:
   - {name: "[Hysteria2] All-@IRAN_V2RAY1", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] @sunflowerplato🌻 #1", server: 185.92.220.240, port: 30205, type: hysteria2, password: 8864aa9f-7517-4fd5-aef1-32050eb3095d, auth: 8864aa9f-7517-4fd5-aef1-32050eb3095d, sni: net2025.afsharidempire.uk, skip-cert-verify: false, obfs: salamander, obfs-password: GdQ4bgvT8RFwuWi2}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #1", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
-  - {name: "[Hysteria2] ‍☠️@FreakConfig", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
+  - {name: "[Hysteria2] @FreakConfig #3", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #2", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] @FreakConfig #5", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #3", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
@@ -184,7 +184,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -283,7 +283,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -383,7 +383,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -495,7 +495,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -607,7 +607,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -706,7 +706,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -806,7 +806,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -915,7 +915,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] ‍☠️@FreakConfig"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
