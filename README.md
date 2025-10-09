@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-09 02:12:51 最新)
+# Clash官网导航( 2025-10-09 04:49:57 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-09 02:12:51 最新)  
+## Clash免费节点更新 ( 2025-10-09 04:49:57 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -67,7 +67,8 @@ proxies:
   - {name: "[Hysteria2] @Daily_Configs", server: 5.231.70.79, port: 443, type: hysteria2, password: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, auth: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات...", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: 3QlSMKyqLp, auth: 3QlSMKyqLp, sni: android.yas-nowin.ir, skip-cert-verify: false}
   - {name: "[Hysteria2] All--@IRAN_V2RAY1", server: de.eyucdn.xyz, port: 2056, type: hysteria2, password: 45b46edb-679b-4ea5-befd-88c05bb94f80, auth: 45b46edb-679b-4ea5-befd-88c05bb94f80, sni: de.eyucdn.xyz, skip-cert-verify: false}
-  - {name: "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان", server: hshl.huasuan666.top, port: 22157, type: hysteria2, password: 571ec94e-613c-430a-93de-397d3d237475, auth: 571ec94e-613c-430a-93de-397d3d237475, sni: hshl.huasuan666.top, skip-cert-verify: false}
+  - {name: "[Hysteria2] @FreakConfig", server: nl1.oomz.ru, port: 30000, type: hysteria2, password: 4e231218-04c8-44ce-b72d-5c1bbcfc3a94, auth: 4e231218-04c8-44ce-b72d-5c1bbcfc3a94, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @FreakConfig #1", server: hshl.huasuan666.top, port: 22157, type: hysteria2, password: 571ec94e-613c-430a-93de-397d3d237475, auth: 571ec94e-613c-430a-93de-397d3d237475, sni: hshl.huasuan666.top, skip-cert-verify: false}
   - {name: "[Hysteria2] @Daily_Configs #1", server: banmabanmabanmabanmabanmabanma2.wanlidag.top, port: 54265, type: hysteria2, password: 5f4ba37a-bb3c-4f8e-962e-850f624ad131, auth: 5f4ba37a-bb3c-4f8e-962e-850f624ad131, sni: banmabanmabanmabanmabanmabanma2.wanlidag.top, skip-cert-verify: false}
   - {name: "[Hysteria2] WI-FI--@IRAN_V2RAY1", server: hl.dport.top, port: 33659, type: hysteria2, password: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3, auth: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3, sni: hl.dport.top, skip-cert-verify: false, obfs: salamander, obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==}
   - {name: "[Hysteria2] telegram-@ISVvpn", server: fra-nb-02.linlujs.pw, port: 29854, type: hysteria2, password: 6803bc9b-1157-431b-8f73-970a6deb741f, auth: 6803bc9b-1157-431b-8f73-970a6deb741f, skip-cert-verify: false}
@@ -83,7 +84,7 @@ proxies:
   - {name: "[Hysteria2] All-@IRAN_V2RAY1", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] @sunflowerplato🌻 #1", server: 185.92.220.240, port: 30205, type: hysteria2, password: 8864aa9f-7517-4fd5-aef1-32050eb3095d, auth: 8864aa9f-7517-4fd5-aef1-32050eb3095d, sni: net2025.afsharidempire.uk, skip-cert-verify: false, obfs: salamander, obfs-password: GdQ4bgvT8RFwuWi2}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #1", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
-  - {name: "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
+  - {name: "[Hysteria2] @FreakConfig #3", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #2", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] @Daily_Configs #4", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #3", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
@@ -91,6 +92,7 @@ proxies:
   - {name: "[Hysteria2] MCI-@IRAN_V2RAY1", server: 81.168.83.89, port: 2083, type: hysteria2, password: YwuvGJk36B, auth: YwuvGJk36B, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, obfs: salamander, obfs-password: khameniiko@smad@ret}
   - {name: "[Hysteria2] @Daily_Configs #6", server: 103.249.133.79, port: 443, type: hysteria2, password: biadailyconfigs, auth: biadailyconfigs, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @Daily_Configs #7", server: 103.249.133.79, port: 443, type: hysteria2, password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn, auth: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
+  - {name: "[Hysteria2] @FreakConfig 2", server: 108.165.213.197, port: 23891, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus01.mistea.top, skip-cert-verify: false}
   - {name: "[Hysteria2] @sunflowerplato🌻 #2", server: qing-kz.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, auth: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: false}
   - {name: "[Hysteria2] @Daily_Configs #9", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @Daily_Configs #10", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
@@ -172,7 +174,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -188,7 +191,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -196,6 +199,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -276,7 +280,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -292,7 +297,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -300,6 +305,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -381,7 +387,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -397,7 +404,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -405,6 +412,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -498,7 +506,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -514,7 +523,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -522,6 +531,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -617,7 +627,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -633,7 +644,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -641,6 +652,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -721,7 +733,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -737,7 +750,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -745,6 +758,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -826,7 +840,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -842,7 +857,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -850,6 +865,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
@@ -940,7 +956,8 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
       - "[Hysteria2] All--@IRAN_V2RAY1"
-      - "[Hysteria2] @V2rayNGVPN <- کانفیگ رایگان"
+      - "[Hysteria2] @FreakConfig"
+      - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] WI-FI--@IRAN_V2RAY1"
       - "[Hysteria2] telegram-@ISVvpn"
@@ -956,7 +973,7 @@ proxy-groups:
       - "[Hysteria2] All-@IRAN_V2RAY1"
       - "[Hysteria2] @sunflowerplato🌻 #1"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
-      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #1"
+      - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] All-@IRAN_V2RAY1 #2"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #3"
@@ -964,6 +981,7 @@ proxy-groups:
       - "[Hysteria2] MCI-@IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs #6"
       - "[Hysteria2] @Daily_Configs #7"
+      - "[Hysteria2] @FreakConfig 2"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] @Daily_Configs #9"
       - "[Hysteria2] @Daily_Configs #10"
