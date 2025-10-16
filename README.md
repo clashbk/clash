@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-16 02:14:48 最新)
+# Clash官网导航( 2025-10-16 04:50:16 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-16 02:14:48 最新)  
+## Clash免费节点更新 ( 2025-10-16 04:50:16 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -83,6 +83,7 @@ proxies:
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا...", server: 77.223.214.193, port: 31468, type: hysteria2, password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, auth: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @AblNet7 🇸🇪 机场推荐", server: 70.34.215.221, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
+  - {name: "[Hysteria2] limo", server: 185.92.220.240, port: 30205, type: hysteria2, password: 8864aa9f-7517-4fd5-aef1-32050eb3095d, auth: 8864aa9f-7517-4fd5-aef1-32050eb3095d, sni: net2025.afsharidempire.uk, skip-cert-verify: false, obfs: salamander, obfs-password: GdQ4bgvT8RFwuWi2}
   - {name: "[Hysteria2] @AblNet7 🇺🇸 机场推荐", server: 836902-20.9966661.xyz, port: 3000, type: hysteria2, password: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, auth: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, sni: 836902-20.9966661.xyz, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #1", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
   - {name: "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1", server: 113.192.61.19, port: 63979, type: hysteria2, password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, auth: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, sni: www.bing.com, skip-cert-verify: false}
@@ -100,7 +101,6 @@ proxies:
   - {name: "[Hysteria2] @Daily_Configs #11", server: 103.249.133.79, port: 443, type: hysteria2, password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn, auth: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2", server: 108.165.213.197, port: 23891, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus01.mistea.top, skip-cert-verify: false}
   - {name: "[Hysteria2] @sunflowerplato🌻", server: qing-kz.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, auth: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: false}
-  - {name: "[Hysteria2] @FreakConfig 4", server: 192.3.60.176, port: 41951, type: hysteria2, password: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46, auth: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @AblNet7 🇨🇦 机场推荐", server: 150.230.28.100, port: 45979, type: hysteria2, password: cfe032e4-1bc3-454f-9d09-301b0aea08ff, auth: cfe032e4-1bc3-454f-9d09-301b0aea08ff, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @sunflowerplato", server: 185.184.68.7.sslip.io, port: 46129, type: hysteria2, password: df36ace8-640b-42bb-8169-198901af6d9e, auth: df36ace8-640b-42bb-8169-198901af6d9e, skip-cert-verify: false, obfs: salamander, obfs-password: JBPVtqk1kMBGleBcLZ}
   - {name: "[Hysteria2] @FreakConfig #1 2", server: 208.87.243.187, port: 22222, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
@@ -164,6 +164,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -181,7 +182,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -244,6 +244,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -261,7 +262,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -325,6 +325,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -342,7 +343,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -418,6 +418,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -435,7 +436,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -509,6 +509,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -526,7 +527,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -589,6 +589,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -606,7 +607,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -670,6 +670,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -687,7 +688,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
@@ -760,6 +760,7 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] @AblNet7 🇸🇪 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] limo"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
@@ -777,7 +778,6 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #11"
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] @sunflowerplato🌻"
-      - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #1 2"
