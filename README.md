@@ -1,4 +1,4 @@
-# Clash官网导航( 2025-10-23 04:49:59 最新)
+# Clash官网导航( 2025-10-23 08:54:58 最新)
 
 ## Clash 客户端
 
@@ -51,7 +51,7 @@
 ### clashN （停更）
 - clashN 下载地址：https://github.com/2dust/clashN/releases
 
-## Clash免费节点更新 ( 2025-10-23 04:49:59 最新)  
+## Clash免费节点更新 ( 2025-10-23 08:54:58 最新)  
 <a href="https://github.com/clashbk/clash/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
@@ -147,30 +147,19 @@ proxies:
   - {name: "[Trojan] 🇨🇳 台湾|@ripaojiedian 2", server: lazy.rsqpq.cn, port: 38001, type: trojan, password: 82e0ff78-c281-4806-99ee-24c1d9912b4c, skip-cert-verify: false}
   - {name: "[Trojan] 🇯🇵 日本4|@ripaojiedian 2", server: lazy.rsqpq.cn, port: 32002, type: trojan, password: 82e0ff78-c281-4806-99ee-24c1d9912b4c, skip-cert-verify: false}
   - {name: "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2", server: lazy.rsqpq.cn, port: 33001, type: trojan, password: 82e0ff78-c281-4806-99ee-24c1d9912b4c, skip-cert-verify: false}
-  - {name: "[Vless] HK_speednode_0005", server: 202.85.53.74, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] HK_speednode_0006", server: 202.85.53.74, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/X@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] HK_speednode_0007", server: 202.85.53.74, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] HK_speednode_0008", server: 202.85.53.74, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /X@节点狂魔security=tls, headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] IR_speednode_0009", server: 217.60.248.66, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] KR_speednode_0012", server: 182.31.70.92, port: 12336, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] KR_speednode_0013", server: 222.114.57.191, port: 50001, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] KR_speednode_0014", server: 121.131.242.29, port: 12219, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /TelegramU0001F1E8U0001F1F3@WangCai2security=tls, headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] RU_speednode_0015", server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] RU_speednode_0016", server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳 @WangCai2 /?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] RU_speednode_0017", server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] RU_speednode_0018", server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] RU_speednode_0019", server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] RU_speednode_0020", server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /TelegramU0001F1E8U0001F1F3 @WangCai2security=tlssecurity=tls, headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] SG_speednode_0021", server: 185.114.78.230, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] SG_speednode_0022", server: 185.114.78.230, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] TW_speednode_0023", server: 114.34.202.224, port: 10004, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /Telegram🇨🇳@WangCai2security=tls, headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] TW_speednode_0024", server: 167.179.27.92, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] TW_speednode_0025", server: 167.179.27.92, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] 🇺🇦 UA_speednode_0026", server: freeyx.cloudflare88.eu.org, port: 443, type: vless, uuid: 81933241-8240-4826-8e93-734500a2d1ad, tls: true, skip-cert-verify: false, servername: do-tor1.862400.xyz, network: ws, ws-opts: {path: "/freev2.net?ed=2048fp=random", headers: {Host: do-tor1.862400.xyz}}}
-  - {name: "[Vless] 🇺🇦 UA_speednode_0027", server: freeyx.cloudflare88.eu.org, port: 443, type: vless, uuid: 81933241-8240-4826-8e93-734500a2d1ad, tls: true, skip-cert-verify: false, servername: oracle-kr-chuncheon.862400.xyz, network: ws, ws-opts: {path: "/freev2.net?ed=2048fp=random", headers: {Host: oracle-kr-chuncheon.862400.xyz}}}
-  - {name: "[Vless] US_speednode_0029", server: 104.20.2.221, port: 8443, type: vless, uuid: 6c7a6a6a-6a6a-4000-8000-000000000002, tls: true, skip-cert-verify: false, servername: bycf.lzjnb.shop, network: ws, ws-opts: {path: "/?ed=2560fp=chrome", headers: {Host: bycf.lzjnb.shop}}}
-  - {name: "[Vless] US_speednode_0031", server: 195.13.45.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /x @节点狂魔security=tlssecurity=tls, headers: {Host: gaosir.unfeeling.sbs}}}
-  - {name: "[Vless] US_speednode_0032", server: 195.13.45.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /x @节点狂魔security=tls, headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Trojan] CN_speednode_0004", server: 36.150.215.138, port: 4451, type: trojan, password: BxceQaOe, sni: 36.150.215.138, skip-cert-verify: false}
+  - {name: "[Vless] HK_speednode_0005", server: 210.6.207.42, port: 18622, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] HK_speednode_0006", server: 47.76.218.163, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] KR_speednode_0007", server: 211.48.77.114, port: 12312, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/X@节点狂魔/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] KR_speednode_0008", server: 119.201.195.135, port: 10001, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /x @节点狂魔security=tls, headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] KR_speednode_0009", server: 106.252.245.199, port: 50001, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/X@节点狂魔/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] KR_speednode_0011", server: 121.173.93.124, port: 12185, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] KR_speednode_0012", server: 183.101.243.99, port: 12576, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram@freecodes/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] KR_speednode_0013", server: 112.156.154.95, port: 30067, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/X@节点狂魔/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] SG_speednode_0014", server: 185.114.78.230, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] SG_speednode_0015", server: 185.114.78.230, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] TW_speednode_0016", server: 167.179.27.92, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
+  - {name: "[Vless] TW_speednode_0017", server: 167.179.27.92, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -264,30 +253,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
@@ -380,30 +358,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
@@ -497,30 +464,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
@@ -626,30 +582,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
@@ -757,30 +702,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
@@ -873,30 +807,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
@@ -990,30 +913,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
@@ -1116,30 +1028,19 @@ proxy-groups:
       - "[Trojan] 🇨🇳 台湾|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇸🇬 新加坡4|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0004"
       - "[Vless] HK_speednode_0005"
       - "[Vless] HK_speednode_0006"
-      - "[Vless] HK_speednode_0007"
-      - "[Vless] HK_speednode_0008"
-      - "[Vless] IR_speednode_0009"
+      - "[Vless] KR_speednode_0007"
+      - "[Vless] KR_speednode_0008"
+      - "[Vless] KR_speednode_0009"
+      - "[Vless] KR_speednode_0011"
       - "[Vless] KR_speednode_0012"
       - "[Vless] KR_speednode_0013"
-      - "[Vless] KR_speednode_0014"
-      - "[Vless] RU_speednode_0015"
-      - "[Vless] RU_speednode_0016"
-      - "[Vless] RU_speednode_0017"
-      - "[Vless] RU_speednode_0018"
-      - "[Vless] RU_speednode_0019"
-      - "[Vless] RU_speednode_0020"
-      - "[Vless] SG_speednode_0021"
-      - "[Vless] SG_speednode_0022"
-      - "[Vless] TW_speednode_0023"
-      - "[Vless] TW_speednode_0024"
-      - "[Vless] TW_speednode_0025"
-      - "[Vless] 🇺🇦 UA_speednode_0026"
-      - "[Vless] 🇺🇦 UA_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0031"
-      - "[Vless] US_speednode_0032"
+      - "[Vless] SG_speednode_0014"
+      - "[Vless] SG_speednode_0015"
+      - "[Vless] TW_speednode_0016"
+      - "[Vless] TW_speednode_0017"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
