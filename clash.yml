@@ -59,7 +59,7 @@ proxies:
   - {name: "[Hysteria2] @Selinc #6", server: us4.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, auth: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4", server: 206.71.158.41, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1", server: 77.90.41.197, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
-  - {name: "[Hysteria2] @FreakConfig #5", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
+  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] @sunflowerplato🌻 #2", server: 108.165.213.197, port: 23891, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus01.mistea.top, skip-cert-verify: false}
   - {name: "[Hysteria2] ‍☠️@FreakConfig", server: 193.142.59.41, port: 23899, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: hl01.mistea.top, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--1", server: 38.45.89.97, port: 23892, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus02.mistea.top, skip-cert-verify: false}
@@ -168,7 +168,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -276,7 +276,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -385,7 +385,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -506,7 +506,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -627,7 +627,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -735,7 +735,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -844,7 +844,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -962,7 +962,7 @@ proxy-groups:
       - "[Hysteria2] @Selinc #6"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #4"
       - "[Hysteria2] 🇩🇪 - DE - @freeOnlineVPN #1"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #6"
       - "[Hysteria2] @sunflowerplato🌻 #2"
       - "[Hysteria2] ‍☠️@FreakConfig"
       - "[Hysteria2] All-@V2rayAlpha--1"
