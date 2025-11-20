@@ -19,7 +19,7 @@
 | Mihomo Party           | ✅       | ✅    | ❌       | ✅     | [已停更](https://github.com/mihomo-party-org/mihomo-party/releases) |                                                       | [前往](https://github.com/clashbk/clash/wiki/mihomo-party )  |
 | ClashN                 | ✅       | ❌    | ❌       | ❌     | [已停更](https://github.com/2dust/clashN/releases)           |                                                       | [前往](https://github.com/2dust/clashN/releases)             |
 
-## Clash 客户端
+## Clash客户端官网导航
 
 ### Clash Verge Rev
 
