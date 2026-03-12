@@ -106,4 +106,4 @@ dist
 #customize
 .vscode/
 .history/
-#zpush.sh
+zpush.sh
