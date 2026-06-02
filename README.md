@@ -6,6 +6,8 @@
 
 ## 📊 Clash客户端汇总
 
+
+
 | 客户端                 | 维护 | Windows | macOS | Android | iOS  | Linux | 仓库                                                         | 教程                                                         |
 | ---------------------- | ---- | ------- | ----- | ------- | ---- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | FlClash                | 🟢    | ✅       | ✅     | ✅       | ❌    | ✅     | [官方](https://github.com/chen08209/FlClash/releases)        | [前往](https://github.com/clashbk/clash/wiki/flclash )       |
@@ -19,6 +21,7 @@
 | ClashX Pro             | 🔴    | ❌       | ✅     | ❌       | ❌    | ❌     | [备份](https://github.com/clashbk/clashx_pro)                | [前往](https://github.com/clashbk/clash/wiki/clashx-pro)     |
 | Clash for Android      | 🔴    | ❌       | ❌     | ✅       | ❌    | ❌     | [备份](https://github.com/clashbk/clash_for_android)         | [前往](https://github.com/clashbk/clash/wiki/clash-for-android ) |
 | Karing                 | 🟢    | ✅       | ✅     | ✅       | ✅    | ✅     | [官方](https://github.com/KaringX/karing/releases)           | [前往](https://github.com/clashbk/clash/wiki/karing )        |
+| Sing-box               | 🟢    | ✅       | ✅     | ✅       | ✅    | ✅     | [官方](https://github.com/SagerNet/sing-box/releases)        | [前往](https://github.com/clashbk/clash/wiki/sing-box)       |
 | Clash Nyanpasu         | 🟢    | ✅       | ✅     | ❌       | ❌    | ❌     | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | [前往](https://github.com/clashbk/clash/wiki/clashx-meta)    |
 | Clash-Party            | 🟢    | ✅       | ✅     | ❌       | ❌    | ❌     | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [前往](https://github.com/clashbk/clash/wiki/clash-party)    |
 | Surge for iOS          | 🟢    | ❌       | ❌     | ❌       | ✅    | ❌     | [商店](https://apps.apple.com/us/app/surge-5/id1442620678)   | [前往](https://github.com/clashbk/clash/wiki/surge)          |
