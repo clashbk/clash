@@ -30,18 +30,20 @@
 
 ## 高速机场推荐1:【 ORYMI 】
 
-免费套餐 (抵扣码：FR666)
+免费套餐 
 
 - 套餐流量：20 GB
 - 带宽限制：5 Mbps
 - 优质隧道专线
 - 全平台客户端支持
-- 同时在线设备：2 台
+- 同时在线设备：1 台
 - 免费观看netflix、disney+、primevideo、hbomax
 
 网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 九折优惠码：LxwSsaay
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请使用代理访问
+
+关注X: <a href="https://x.com/clashgithub88">clashgithub88</a>  获取免费套餐抵扣码
 
 ## 高速机场推荐2：【星链加速】
 
