@@ -40,7 +40,7 @@
 - 解锁流媒体及ChatGPT等AI
 - 免费观看netflix、disney+、primevideo、hbomax 
 
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 九折优惠码：LxwSsaay
+网站注册地址：【 [ORYMI（点击注册）](https://www.orymi.net/#/register?code=rDsEp8Hf)】 九折优惠码：LxwSsaay
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请使用代理访问
 
