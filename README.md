@@ -2,7 +2,7 @@
 
 欢迎来到 Clash官网导航！本页面为您汇总了各类 Clash 客户端，包含活跃更新项目和已停更项目，方便您查找和选择适合的工具。 
 
-**👉[免费观看netflix、disney+、primevideo、hbomax。](https://orymi.net/#/register?code=rDsEp8Hf/)**
+**👉[免费20g流量，免费观看netflix、disney+、primevideo、hbomax。](https://www.orymi.net/#/register?code=rDsEp8Hf/)**
 
 ## 📊 Clash客户端汇总
 
