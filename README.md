@@ -57,7 +57,7 @@
 - 解锁流媒体及ChatGPT等AI
 - 免账号观看disney+
 
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
+网站地址：【[星辰加速（点击注册）](https://www.starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请使用代理访问
 
