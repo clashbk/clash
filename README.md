@@ -68,14 +68,14 @@
 
 ### 新手推荐：
 
-- **Windows 用户**：推荐 [FlClash](https://github.com/clashbk/clash/wiki/flclash/)（现代化界面）或 [Clash Verge Rev](https://github.com/clashbk/clash/wiki/clash-verge-rev) 
-- **macOS 用户**：推荐 [FlClash](https://github.com/clashbk/clash/wiki/flclash/)（现代化界面）
+- **Windows 用户**：推荐 [FlClash](https://github.com/clashbk/clash/wiki/flclash)（现代化界面）或 [Clash Verge Rev](https://github.com/clashbk/clash/wiki/clash-verge-rev) 
+- **macOS 用户**：推荐 [FlClash](https://github.com/clashbk/clash/wiki/flclash)（现代化界面）
 - **iOS 用户**：推荐   [Shadowrocket](https://github.com/clashbk/clash/wiki/shadowrocket)  (俗称小火箭)
-- **Android 用户**：推荐  [FlClash](https://github.com/clashbk/clash/wiki/flclash/)（现代化界面）或  [Clash Meta for Android](https://github.com/clashbk/clash/wiki/clash-meta-for-android)
+- **Android 用户**：推荐  [FlClash](https://github.com/clashbk/clash/wiki/flclash)（现代化界面）或  [Clash Meta for Android](https://github.com/clashbk/clash/wiki/clash-meta-for-android)
 
 ### 进阶用户：
 
-- 路由器部署：[OpenClash](https://github.com/clashbk/clash/wiki/openclash/)（OpenWRT 插件,实现全屋加速）或  [PassWall2](https://github.com/clashbk/clash/wiki/passwall2/)
+- 路由器部署：[OpenClash](https://github.com/clashbk/clash/wiki/openclash)（OpenWRT 插件,实现全屋加速）或  [PassWall2](https://github.com/clashbk/clash/wiki/passwall2)
 
   
 
