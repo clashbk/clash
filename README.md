@@ -26,6 +26,7 @@
 | Clash-Party            | 🟢    | ✅       | ✅     | ❌       | ❌    | ❌     | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [前往](https://github.com/clashbk/clash/wiki/clash-party)    |
 | Surge for iOS          | 🟢    | ❌       | ❌     | ❌       | ✅    | ❌     | [商店](https://apps.apple.com/us/app/surge-5/id1442620678)   | [前往](https://github.com/clashbk/clash/wiki/surge)          |
 | V2rayN                 | 🟢    | ✅       | ✅     | ❌       | ❌    | ❌     | [官方](https://github.com/2dust/v2rayN/releases)             | [前往](https://github.com/clashbk/clash/wiki/v2rayn)         |
+| V2rayNG                | 🟢    | ❌       | ❌     | ✅       | ❌    | ❌     | [官方](https://github.com/2dust/v2rayNG/releases)            | [前往](https://github.com/clashbk/clash/wiki/v2rayng)        |
 | Shadowrocket           | 🟢    | ❌       | ❌     | ❌       | ✅    | ❌     | [商店](https://apps.apple.com/us/app/shadowrocket/id932747118) | [前往](https://github.com/clashbk/clash/wiki/shadowrocket)   |
 
 ## 高速机场推荐1:【 ORYMI 】
